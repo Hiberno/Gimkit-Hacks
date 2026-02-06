@@ -80,7 +80,7 @@ The script must be executed before joining the game to receive the game state in
 - The script (should) automatically bypass the WebSocket freeze requiring no new tabs being created
 
 ### Bookmarklet (2 Step Process)
-- Visit [bookmarklet.html](https://undercovergoose.github.io/gimkit/bookmarklet.html) and drag both links to your bookmarks bar
+- Visit [bookmarklet.html](hiberno.github.io/Gimkit-Hacks/bookmarklet.html) and drag both links to your bookmarks bar
 - Navigate to https://gimkit.com/join and press the first script, then press the second script on the tab opened
 - You'll know if the script worked if the default right-click context menu doesn't appear
 
